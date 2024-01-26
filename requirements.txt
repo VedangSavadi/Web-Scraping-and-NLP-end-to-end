@@ -1,0 +1,9 @@
+sqlalchemy
+transformers
+torch
+pandas
+openpyxl
+urllib
+datetime
+xml
+logging
